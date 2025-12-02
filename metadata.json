@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Countdown Timer",
+  "description": "A full-screen, minimalist countdown timer designed for productivity and focus, featuring an animated cosmic background. Set custom durations, use presets like the Pomodoro technique, and get optional sound notifications. Includes in-depth articles on time management and productivity.",
+  "requestFramePermissions": []
+}
