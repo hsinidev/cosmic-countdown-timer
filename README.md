@@ -3,7 +3,7 @@
 **The Ultimate Full-Screen Focus Tool.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blueviolet?style=for-the-badge)](https://doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blueviolet?style=for-the-badge)](https://doodax.com/tools/cosmic-countdown-timer/index.html)
 
 > **"Time is the most valuable thing a man can spend."** – Theophrastus
 
